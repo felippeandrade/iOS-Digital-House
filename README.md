@@ -1,8 +1,8 @@
 # iOS - Digital House
 
-Duração do curso: 5 meses - 13 horas/semanais
+Duração do curso: 5 meses
 
-Formato de Aula: Remoto e ao vivo
+Formato de Aula: Treinamento 100% online com aulas síncronas (ao vivo)
 
 Conteúdo do curso
 
