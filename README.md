@@ -1,5 +1,4 @@
 # iOS - Digital House
-iOS - Digital House
 
 Duração do curso: 5 meses - 13 horas/semanais
 
@@ -7,39 +6,46 @@ Formato de Aula: Remoto e ao vivo
 
 Conteúdo do curso
 
-01 Programação orientada a objetos e Swift
-O que   um objeto?
-Paradigmas da programa  o
-Objetos b sicos
+### 01 Programação orientada a objetos e Swift
+
+O que é um objeto?
+
+Paradigmas da programação
+
+Objetos básicos
+
 Classes e protocolos
+
 Atributos e responsabilidades
+
 Unit Test
+
 UI Test
-Rela  es entre objetos e
-polimorfismo
-Padr es de design
+
+Relações entre objetos e polimorfismo
+
+Padrões de design
+
 Sintaxe Swift
-Cole  es: arrays e dicion rios
-Opcionais
-Closures
 
+Coleções: arrays e dicionários
 
+Opcionais e Closures
 
+### 02 Introdução ao IOS
 
-02 Introdução ao IOS
+### 03 Interfaces de usuário
 
-03 Interfaces de usuário
+### 04 Métodos de trabalho
 
-04 Métodos de trabalho
+### 05 Práticas avançadas
 
-05 Práticas avançadas
+### 06 Persistência
 
-06 Persistência
+### 07 Serviços web
 
-07 Serviços web
+### 08 Redes sociais
 
-08 Redes sociais
+### 09 Firebase
 
-09 Firebase
-
-10 Publicação e distribuição
+### 10 Publicação e distribuição
