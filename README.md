@@ -1,10 +1,10 @@
 # iOS - Digital House
 
-Duração do curso: 5 meses
+Duração do Treinamento: 5 meses - 217 horas de formação
 
-Formato de Aula: Treinamento 100% online com aulas síncronas (ao vivo)
+Treinamento 100% online com aulas síncronas (ao vivo)
 
-Conteúdo do curso
+Conteúdo do Treinamento
 
 ### 01 Programação orientada a objetos e Swift
 
