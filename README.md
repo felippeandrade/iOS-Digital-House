@@ -4,6 +4,8 @@ Duração do Treinamento: 5 meses - 217 horas
 
 Treinamento 100% online com aulas síncronas (ao vivo)
 
+# Projetos:
+
 # Aulas:
 
 ### Aula 01 - 07/03
