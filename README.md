@@ -1,6 +1,6 @@
 # iOS - Created by Digital House
 
-<p align=center>
+<p align=left>
   <img src="https://github.com/felippeandrade/iOS-Digital-House/blob/main/images/logoreadme01.png" width="200" /> 
 </p>
 
