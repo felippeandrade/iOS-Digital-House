@@ -11,7 +11,7 @@ Treinamento 100% online com aulas síncronas (ao vivo)
 ## Projetos:
 
 <p float="left">
-  <img src="https://github.com/felippeandrade/iOS-Digital-House/blob/main/images/desafio%2001%20B.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="150" />
+  <img src="https://github.com/felippeandrade/iOS-Digital-House/blob/main/images/desafio%2001%20B.png" width="150" />
   <img src="https://github.com/felippeandrade/iOS-Digital-House/blob/main/images/desafio%2002%20B.png" width="150" /> 
 </p>
 
