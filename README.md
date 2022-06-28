@@ -4,15 +4,15 @@
   <img src="https://github.com/felippeandrade/iOS-Digital-House/blob/main/images/logoreadme01.png" width="200" /> 
 </p>
 
-Duração do Treinamento: 5 meses - 217 horas
+Duração do Treinamento: 6 meses - 217 horas
 
 Treinamento 100% online com aulas síncronas (ao vivo)
 
 ## Projetos:
 
 <p float="left">
-  <img src="https://github.com/felippeandrade/iOS-Digital-House/blob/main/images/desafio%2001%20B.png" width="150" />
-  <img src="https://github.com/felippeandrade/iOS-Digital-House/blob/main/images/desafio%2002%20B.png" width="150" /> 
+  <img src="" width="150" />
+  <img src="" width="150" /> 
 </p>
 
 # Aulas:
