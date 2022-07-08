@@ -15,14 +15,6 @@ Treinamento 100% online com aulas síncronas (ao vivo)
   <img src="" width="150" /> 
 </p>
 
-# Aulas:
-
-### Aula 01 - 07/03
-Apresentação do Curso
-
-### Aula 02 - 09/03
-Xcode, Storyboard, Constraints, Auto Layout
-
 # Conteúdo do Treinamento:
 
 ### 01 - Programação orientada a objetos e Swift
